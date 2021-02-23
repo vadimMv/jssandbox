@@ -1,2 +1,0 @@
-(this["webpackJsonpjs-sandbox"]=this["webpackJsonpjs-sandbox"]||[]).push([[421],{591:function(s,a){var n=Prism.util.clone(Prism.languages.typescript);Prism.languages.tsx=Prism.languages.extend("jsx",n)}}]);
-//# sourceMappingURL=421.1b883dc1.chunk.js.map
