@@ -1,0 +1,2 @@
+(this["webpackJsonpjs-sandbox"]=this["webpackJsonpjs-sandbox"]||[]).push([[406],{576:function(s,a){Prism.languages.t4=Prism.languages["t4-cs"]=Prism.languages["t4-templating"].createT4("csharp")}}]);
+//# sourceMappingURL=406.e90c836b.chunk.js.map

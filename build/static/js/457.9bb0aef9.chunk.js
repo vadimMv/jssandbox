@@ -1,0 +1,2 @@
+(this["webpackJsonpjs-sandbox"]=this["webpackJsonpjs-sandbox"]||[]).push([[457],{627:function(a,n){!function(a){function n(n,e){a.languages[n]&&a.languages.insertBefore(n,"comment",{"doc-comment":e})}var e=a.languages.markup.tag,s={pattern:/\/\/\/.*/,greedy:!0,alias:"comment",inside:{tag:e}},t={pattern:/'''.*/,greedy:!0,alias:"comment",inside:{tag:e}};n("csharp",s),n("fsharp",s),n("vbnet",t)}(Prism)}}]);
+//# sourceMappingURL=457.9bb0aef9.chunk.js.map
